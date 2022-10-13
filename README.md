@@ -4,3 +4,7 @@ Practica de FondEnd
 Abogabot
 
 [Diagrama de Flujo](Abogabot.pdf)
+
+Buyer Persona
+
+[Buyer Persona]
