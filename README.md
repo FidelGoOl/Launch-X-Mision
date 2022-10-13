@@ -7,4 +7,4 @@ Abogabot
 
 Buyer Persona
 
-[Buyer Persona]
+[Buyer Persona](persona.pdf)
