@@ -5,6 +5,6 @@ Abogabot
 
 [Diagrama de Flujo](Abogabot.pdf)
 
-Buyer Persona
-
 [Buyer Persona](persona.pdf)
+
+[Publico Objetivo](Publico Objetivo.jpg)
