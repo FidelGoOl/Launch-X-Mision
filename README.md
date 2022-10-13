@@ -3,4 +3,4 @@ Misiones de Launch-X-Mision
 Practica de FondEnd 
 Abogabot
 
-Diagrama de Flujo
+[Diagrama de Flujo](Abogabot.pdf)
