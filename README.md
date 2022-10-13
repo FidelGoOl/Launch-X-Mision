@@ -7,4 +7,4 @@ Abogabot
 
 [Buyer Persona](persona.pdf)
 
-[Publico Objetivo](Publico Objetivo.pdf)
+[Publico Objetivo](Publico_Objetivo2.pdf)
